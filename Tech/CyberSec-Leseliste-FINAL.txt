@@ -1,0 +1,192 @@
+================================================================================
+  CYBERSEC & TECH – KOMBINIERTE LESELISTE (FINAL)
+  Erstellt: März 2026
+================================================================================
+
+  PHASE 1 – FUNDAMENT (Grundlagen Networking & Linux)
+================================================================================
+
+01. Linux Basics for Hackers, 2nd Edition – Getting Started with Networking, Scripting & Security
+    Autor: OccupyTheWeb | Jahr: 2025 | Verlag: No Starch Press
+    --> Idealer Einstieg. 2. Auflage mit aktualisierten Kali-Kapiteln, AI-Basics-Kapitel
+        neu hinzugekommen. Praxisnah, Security-Kontext von Anfang an.
+
+02. Computer Networks
+    Autor: Andrew S. Tanenbaum, Nick Feamster, David J. Wetherall | Jahr: 2020
+    --> Das Netzwerk-Standardwerk. Pflicht für jeden, der Protokolle verstehen will.
+
+03. Hacking & Security – Das umfassende Handbuch
+    Autor: Michael Kofler | Jahr: 2023
+    --> Bestes deutschsprachiges Security-Gesamtwerk. Sehr aktuell und umfassend.
+
+================================================================================
+  PHASE 2 – MINDSET, KULTUR & KONTEXT
+================================================================================
+
+04. The Art of Invisibility
+    Autor: Kevin Mitnick | Jahr: 2017 | Verlag: Little, Brown and Company
+    --> Unverzichtbar für OPSEC- und Privacy-Mindset. Lesenswert für alle Rollen.
+
+05. Countdown to Zero Day – Stuxnet and the Launch of the World's First Digital Weapon
+    Autor: Kim Zetter | Jahr: 2014
+    --> Pflichtlektüre für geopolitische Cyber-Perspektive. Fesselnd und lehrreich.
+
+06. The Phoenix Project – A Novel about IT, DevOps, and Helping Your Business Win
+    Autor: Kim, Behr, Spafford | Jahr: 2013
+    --> Must-Read-Roman für DevOps-Kultur. Zeitlos – baut Verständnis für IT-Prozesse auf.
+
+================================================================================
+  PHASE 3 – EXPLOITATION & OFFENSIVE PROGRAMMIERUNG
+================================================================================
+
+07. Gray Hat Hacking: The Ethical Hacker's Handbook, 6th Edition        
+    Autor: Allen Harper et al. | Jahr: 2022 | Verlag: McGraw-Hill
+        Gray Hat deckt moderne Exploitation, Buffer Overflows, Reverse Engineering,
+        Fuzzing, IoT-Angriffe und Web-Security – deutlich zeitgemäßer.
+
+08. Black Hat Python, 2nd Edition – Python Programming for Hackers & Pentesters
+    Autor: Justin Seitz, Tim Arnold | Jahr: 2021 | Verlag: No Starch Press
+    --> Praxisnahe offensive Python-Programmierung. Gut als Ergänzung zu Phase 4.
+
+================================================================================
+  PHASE 4 – PENETRATION TESTING (Beginner → Fortgeschritten)
+================================================================================
+
+09. The Hacker Playbook 2 – Practical Guide to Penetration Testing            
+    Autor: Peter Kim | Jahr: 2015 | Verlag: Hacker Playbook
+        HP2 ist aktueller, sehr praxisnah, ideal als Pentest-Einstieg mit
+        OSINT, Password-Cracking, AD-Basics und strukturiertem Lab-Aufbau.
+
+10. The Hacker Playbook 3 – Practical Guide to Penetration Testing (Red Team)
+    Autor: Peter Kim | Jahr: 2018 | Verlag: Hacker Playbook
+    --> Aufbau auf HP2. Red-Team-Fokus: Stealth, AD-Angriffe, Evasion, C2-Infra.
+        Beste Wahl für den Schritt vom Pentester zum Red Teamer.
+
+================================================================================
+  PHASE 5 – ADVANCED PENTEST / RED TEAM
+================================================================================
+
+11. Advanced Penetration Testing: Hacking the World's Most Secure Networks   
+    Autor: Wil Allsopp | Jahr: 2017 | Verlag: Wiley
+	Allsopp fokussiert auf hochgesicherte
+        Zielumgebungen, C2-Infrastruktur, laterale Bewegung und komplexe Angriffsketten –
+        deutlich relevanter für fortgeschrittene Szenarien.
+
+================================================================================
+  PHASE 6 – MALWARE-ANALYSE
+================================================================================
+
+12. Practical Malware Analysis – The Hands-On Guide to Dissecting Malicious Software
+    Autor: Michael Sikorski, Andrew Honig | Jahr: 2012 | Verlag: No Starch Press
+    --> Klassiker. Konzepte sind zeitlos. Bestes Einstiegsbuch zur Malware-Analyse.
+
+13. Mastering Malware Analysis
+    Autor: Alexey Kleymenov | Jahr: 2019 | Verlag: Packt Publishing
+    --> Moderne Ergänzung zu PMA. Aktuellere Techniken, Scripting, neuere Samples.
+
+================================================================================
+  PHASE 7 – BLUE TEAM / SOC / THREAT DETECTION
+================================================================================
+
+14. Blue Team Handbook: Incident Response Edition, Version 3.0                
+    Autor: Don Murdoch | Jahr: Dez. 2025 | Verlag: O'Reilly Media (ab März 2026)
+        Version 3.0 (Dez. 2025) ist 180% umfangreicher als die 2016-Ausgabe
+        und folgt dem aktuellen SANS PICERL-Prozess. Direkte Aktualisierung.
+
+15. Blue Team Handbook: SOC, SIEM & Threats Hunting Use Cases
+    Autor: Don Murdoch | Jahr: 2019
+    --> Gute SOC-Schnellreferenz. Ergänzt DFIR-Buch gut. [DUPLIKAT ENTFERNT – nur
+        diese Version behalten, ältere v1 aus Liste 1 entfernt]
+
+16. Practical Threat Detection Engineering – A Hands-On Guide
+    Autor: Megan Roddie | Jahr: 2023 | Verlag: Packt Publishing
+    --> Moderner Threat-Detection-Ansatz: Sigma-Rules, MITRE ATT&CK, Detection-as-Code.
+        Aktuell und sehr empfehlenswert für SOC-Level 2+.
+
+================================================================================
+  PHASE 8 – DIGITAL FORENSICS & INCIDENT RESPONSE (DFIR)
+================================================================================
+
+17. Digital Forensics and Incident Response, 3rd Edition
+    Autor: Gerard Johansen | Jahr: 2022 | Verlag: Packt Publishing
+    --> Bestes DFIR-Buch in der Liste. Sehr aktuell, praxisnah, umfassend.
+
+================================================================================
+  PHASE 9 – SOCIAL ENGINEERING & HUMAN RISK
+================================================================================
+
+18. Practical Social Engineering – A Primer for the Ethical Hacker
+    Autor: Joe Gray | Jahr: 2022 | Verlag: No Starch Press
+    --> Solide Grundlage. Phishing, Pretexting, Vishing, Human-Risk-Management.
+
+================================================================================
+  PHASE 10 – CLOUD SECURITY & CLOUD-ARCHITEKTUR
+================================================================================
+
+19. Practical Cloud Security – A Guide for Secure Design and Deployment, 2nd Ed.
+    Autor: Chris Dotson | Jahr: 2023 | Verlag: O'Reilly Media
+    --> Multi-Cloud (AWS/Azure/GCP), aktuell und sehr praxisnah. Top-Wahl.
+
+20. Cloud Native Patterns – Designing Change-tolerant Software
+    Autor: Cornelia Davis | Jahr: 2019 | Verlag: Manning
+    --> Eher Architektur- als Security-Fokus. Sinnvoll für Cloud-Architektur-Verständnis.
+        [DUPLIKAT ENTFERNT – war in beiden Listen, wird nur einmal geführt]
+
+================================================================================
+  PHASE 11 – MICROSOFT 365 / AZURE ENTRA / DEFENDER
+================================================================================
+
+21. Microsoft 365 Security, Compliance, and Identity
+    Autor: Peter Rising | Jahr: 2023 | Verlag: Packt Publishing
+    --> Aktuell, praxisnah. Beste verfügbare Buchreferenz für M365-Security-Themen.
+
+================================================================================
+  PHASE 12 – ANGRIFF & VERTEIDIGUNG / ZERO TRUST
+================================================================================
+
+22. Cybersecurity Attack and Defense Strategies, 4th Edition
+    Autor: Yuri Diogenes | Jahr: 2024 | Verlag: Packt Publishing
+    --> Aktuellste Auflage (2024). Umfasst Zero Trust, MITRE ATT&CK, Cloud-Threats,
+        KI-gestützte Angriffe. Sehr empfohlen für SOC-Level 2 & Security Engineers.
+
+================================================================================
+  PHASE 13 – KI, MACHINE LEARNING & AI-SECURITY
+================================================================================
+
+23. The Hundred-Page Machine Learning Book
+    Autor: Andriy Burkov | Jahr: 2019
+    --> Bester ML-Schnellüberblick. Ideal als Einstieg oder Auffrischung.
+
+24. Building Machine Learning Powered Applications – Going from Idea to Product
+    Autor: Emmanuel Ameisen | Jahr: 2020 | Verlag: O'Reilly Media
+    --> Praxisnah: Vom ML-Modell zum fertigen Produkt.
+
+25. Designing Machine Learning Systems – An Iterative Process for Production-Ready ML
+    Autor: Chip Huyen | Jahr: 2022 | Verlag: O'Reilly Media
+    --> Aktuelles Standardwerk für ML-Produktionssysteme. Beste Wahl in diesem Bereich.
+
+26. AI Engineering (Deutsche Ausgabe)
+    Jahr: 2024
+    --> Sehr aktuell: LLMs, Deployment, Pipelines, RAG. Sinnvolle Ergänzung zu Huyen.
+
+27. Artificial Intelligence for Cybersecurity
+    Autor: Bojan Kolosnjaji, Huang Xiao, Peng Xu, Apostolis Zarras | Jahr: 2022
+    --> Einziges Buch der Liste mit explizitem Fokus auf KI in der Cybersecurity.
+        ML-Modelle für Malware-Erkennung, Anomalie-Detektion, Threat Hunting.
+
+================================================================================
+  PHASE 14 – SOFTWARE ENGINEERING & HANDWERK
+================================================================================
+
+28. The Pragmatic Programmer (Deutsche Ausgabe)
+    Autor: David Thomas, Andrew Hunt | Jahr: 2019
+    --> Pflichtlektüre für jeden Entwickler. Zeitloser Klassiker.
+
+29. The Clean Coder – A Code of Conduct for Professional Programmers
+    Autor: Robert C. Martin | Jahr: 2011
+    --> Professionelles Handwerk und Berufsethik. Nach wie vor relevant.
+
+30. Refactoring – Wie Sie das Design bestehender Software verbessern (2. Auflage, DE)
+    Autor: Martin Fowler | Jahr: 2019
+    --> Bestes Buch zum Thema Refactoring. JS-Beispiele, moderne Auflage.
+
