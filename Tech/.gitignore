@@ -1,3 +1,4 @@
 # PDFs ignorieren (Ebooks – urheberrechtlich geschützt)
 *.pdf
 *.PDF
+desktop.ini
